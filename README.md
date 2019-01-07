@@ -1,0 +1,2 @@
+# Tableau_Assignment
+Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.City officials have a number of questions on the program, so the first task on the job is to build a set of data reports to provide the answers.
