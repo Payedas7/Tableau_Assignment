@@ -11,6 +11,8 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 The Tableau workbook is saved as NYC 2018 CitiBike Data Analysis.twbx and the data used for this workbook is in the folder Data can be found in the name of nybike_2018_data.csv
 
 As for this Project Tableau Public has been used and that limits the data to 15,000,000 after processing the file I dicided to filter the data using the "Age" field" so data so, that amount of the data can be restricted to the max limit. For 2018 data I have taken the "Age" field from 16 to 51.
+Here is the link to the project at server:
+https://public.tableau.com/profile/payel8775#!/vizhome/NYC2018CitiBikeDataAnalysis/Story1
 
 ![xnip2019-01-19_04-10-37](https://user-images.githubusercontent.com/41707119/51424881-27545180-1ba2-11e9-94dd-19f99a434aa0.jpg)
 ![xnip2019-01-19_04-11-01](https://user-images.githubusercontent.com/41707119/51424882-27545180-1ba2-11e9-9c77-0a3253d7372c.jpg)
